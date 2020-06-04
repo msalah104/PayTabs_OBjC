@@ -38,7 +38,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self setDummyData];
+//    [self setDummyData];
     
 }
 
